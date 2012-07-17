@@ -28,7 +28,7 @@ public class LoadCareers {
 			//xmlReader.parse("c:\\file.xml");
 			//xmlReader.parse("C:\\Documents and Settings\\DonSa001\\My Documents\\Documents\\Staples\\Carrers\\ExternalRequisition_US_20120627_094329.xml");			
 			
-			File file = new File("C:\\Documents and Settings\\DonSa001\\My Documents\\Documents\\Staples\\Carrers\\ExternalRequisition_US_20120627_094329.xml");
+			File file = new File("ExternalRequisition_US_20120627_094329.xml");
 			//File file = new File("C:\\Documents and Settings\\DonSa001\\My Documents\\Documents\\Staples\\Carrers\\Document.txt");
 			InputStream inputStream= new FileInputStream(file);			
 			

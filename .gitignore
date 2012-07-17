@@ -2,6 +2,6 @@
 
 # Package Files #
 #*.jar
-*.war
+#*.war
 *.ear
 *.DS_Store
